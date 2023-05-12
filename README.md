@@ -2,9 +2,9 @@
 
 # Requisitos 
 
-npm install -g json-server
-ng add @angular/material
-npm install primeflex --save
+ npm install -g json-server
+ ng add @angular/material
+ npm install primeflex --save
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
